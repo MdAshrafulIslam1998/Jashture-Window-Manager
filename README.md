@@ -53,12 +53,12 @@ Dividing the system into **two** distinct components — **tools** and **scripts
 **3.** Switcheroo  
 **4.** Ueli  
 
-### Scripts - 17
+### Scripts - 18
 
 **1.** Gesture Script x (7)  
 **2.** Set Script x (6)  
 **3.** Window Title Script x (1)  
-**4.** F1 & F2 Script x (1)  
+**4.** F1 & F2 Script x (2)  
 **5.** Ueli Helper Script x (2)  
 <br>
 <br>

@@ -2,7 +2,7 @@
 
 **"J_ash_ture"** Window Manager for **`Windows`** : **A window management system using mouse gestures and keyboard controls for efficient window management.**
 
-There are **2** types of window manager -**Tiling** window manager & **Stacking** window manager
+There are **2** types of window manager -**Tiling** window manager & **Stacking** window manager 
 
 #### **Tiling** Window Manager:
 

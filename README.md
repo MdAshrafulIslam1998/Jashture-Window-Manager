@@ -11,7 +11,7 @@ There are **2** types of window manager -**Tiling** window manager & **Stacking*
 - **✔️Fast Window Parsing** 
 - **❌Waste of focus & Space**
 
-#### **Stacking** Window Manager:
+#### **Stacking** Window Manager: 
 
 - **✔️Full Space Focus** 
 - **✔️Mouse-Centric** 
